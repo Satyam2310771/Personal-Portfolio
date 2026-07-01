@@ -1,0 +1,6 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#232833"/>
+  <circle cx="300" cy="150" r="45" fill="#e8a54b" opacity="0.35"/>
+  <path d="M220 250c0-33 27-60 60-60 6 0 12 1 18 3 10-20 31-33 55-33 34 0 62 28 62 62 0 3 0 6-1 9 20 6 34 25 34 46 0 27-22 49-49 49H249c-27 0-49-22-49-49 0-15 7-28 18-37z" fill="#2a303c"/>
+  <text x="300" y="360" text-anchor="middle" font-family="monospace" font-size="14" fill="#5b6472">weather-app-screenshot.png</text>
+</svg>
